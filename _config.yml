@@ -1,5 +1,5 @@
 name: Homeless Animal Project
-description: Resources for animal welfare
+description: A companion animal care knowledge base
 paginate: 10
 baseurl: ""
 gems: [jekyll-paginate]
