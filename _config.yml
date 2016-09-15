@@ -1,5 +1,5 @@
-name: Arcana
-description: Arcana template for Jekyll
+name: Homeless Animal Project
+description: Resources for animal welfare
 paginate: 10
 baseurl: ""
 gems: [jekyll-paginate]
